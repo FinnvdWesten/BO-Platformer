@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: d1c938746ddb13f48893b106c0ff1d62
+  productGUID: 18c54701c0386344d819307d77f47067
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: BO Platformer
+  productName: BeroepsOpdracht Platformer
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -601,14 +601,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: BO Platformer
+  metroPackageName: BeroepsOpdracht Platformer
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: BO Platformer
+  metroApplicationDescription: BeroepsOpdracht Platformer
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -679,10 +679,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3f43cbd6-b20a-4a66-96ec-b15fee3cc6fb
+  cloudProjectId: 4795d99c-31c3-4506-9e18-6308ad85ee90
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: BO Platformer 2026-11-23_15-33-44
+  projectName: BeroepsOpdracht Platformer
   organizationId: fvdwfinn
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
