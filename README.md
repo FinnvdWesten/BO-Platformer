@@ -1,2 +1,7 @@
 # BO-Platformer
 BO Platformer game
+
+## --Logboek--
+
+### 25 november 2026
+ Eerste commit. Movement toegevoegd, Animaties toegevoegd, Er voor gezorgd dat de speler damage neemt en dood kan gaan en een bewegend platform toegevoegd.
