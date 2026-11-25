@@ -1,5 +1,5 @@
 # BO-Platformer
-BO Platformer game
+BO Platformer game van Finn van der Westen
 
 ## --Logboek--
 
