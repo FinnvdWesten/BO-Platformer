@@ -3,10 +3,11 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     public float speed = 2f;
+    public float waypointMargin = 0.25f;
     private SpriteRenderer spriteRenderer;
     public Transform[] points;
 
-    private int i;
+    [SerializeField]private int i;
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -14,7 +15,9 @@ public class Enemy : MonoBehaviour
 
     void Update()
     {
-        if (Vector2.Distance(transform.position, points[i].position) < 0.25f)
+
+        Debug.Log(Vector2.Distance(transform.position, points[i].position));
+        if (Vector2.Distance(transform.position, points[i].position) < waypointMargin)
         {
             i++;
             if (i == points.Length)
