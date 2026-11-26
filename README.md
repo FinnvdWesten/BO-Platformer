@@ -9,4 +9,4 @@ Movement - Animaties - Taking damage - Moving platforms - Patrolling enemy - Cin
 
  ### 26 november 2026
 ##### Opdrachten afgerond:
-Collectables - Winning
+Collectables - Winning - More Levels
